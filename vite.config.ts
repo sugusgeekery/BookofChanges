@@ -14,7 +14,7 @@ export default defineConfig({
   },
 
   // root: process.cwd(),
-  // base: "/",
+  base: "/BookofChanges/",
   // mode: "development",
   // define: [],
   // publicDir: "public",
