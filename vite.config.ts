@@ -82,8 +82,7 @@ export default defineConfig({
     // sourcemap: false,
     // rollupOptions: {
     //   input: {
-    //     index: resolve(__dirname, "index.html"),
-    //     platformStandards: resolve(__dirname, "platformStandards.html"),
+    //     index: fileURLToPath(new URL("index.html", import.meta.url),
     //   },
     // },
     // commonjsOptions: {},
